@@ -1,0 +1,4 @@
+path: /test
+method:GET
+produces: JSON
+status codes: 2
